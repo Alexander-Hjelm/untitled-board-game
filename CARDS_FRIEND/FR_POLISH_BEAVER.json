@@ -1,0 +1,14 @@
+{
+    "id": "FR_POLISH_BEAVER",
+    "name": "Polish Beaver",
+    "type": "Monster",
+    "def": 2,
+    "atk": 3,
+    "desc": "Bóbr Kurwa!",
+    "set-desc": "",
+    "specials": [],
+    "img": "FR_POLISH_BEAVER.jpg",
+    "tags": [
+        "Animal"
+    ]
+}

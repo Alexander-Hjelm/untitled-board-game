@@ -1,0 +1,20 @@
+{
+    "id": "ACC_MASSAGE_GUN",
+    "name": "Massage gun",
+    "type": "Accessory",
+    "def": 0,
+    "atk": 1,
+    "desc": "Brrrrrrrrrrrrr!",
+    "set-desc": "",
+    "specials": [
+        {
+            "name": "BRRRRR!",
+            "desc": "Fully restore the **HP** of any other **friend**."
+        }
+    ],
+    "img": "ACC_MASSAGE_GUN.jpg",
+    "tags": [
+        "Handheld",
+        "Gun"
+    ]
+}

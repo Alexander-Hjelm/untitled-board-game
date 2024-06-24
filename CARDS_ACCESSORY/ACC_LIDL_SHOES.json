@@ -1,0 +1,15 @@
+{
+    "id": "ACC_LIDL_SHOES",
+    "name": "LIDL shoes",
+    "type": "Accessory",
+    "def": 1,
+    "atk": 0,
+    "desc": "Should have gone to LIDL.",
+    "set-desc": "+1 move per turn during **Friendly Combat** for every additional **LIDL** accessory.",
+    "specials": [],
+    "img": "ACC_LIDL_SHOES.jpg",
+    "tags": [
+        "Footwear",
+        "LIDL"
+    ]
+}

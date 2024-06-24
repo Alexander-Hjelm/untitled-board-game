@@ -1,0 +1,21 @@
+{
+    "id": "FR_KISS_ACE",
+    "name": "Ace Frehley",
+    "type": "Monster",
+    "def": 4,
+    "atk": 6,
+    "desc": "You can't spell Spaceman without 'Ace'!",
+    "set-desc": "+1/+1 for every other **KISS** member in the same **Friendzone**",
+    "specials": [
+        {
+            "name": "Rocket Ride",
+            "desc": "Ace Frehley summons a rocket. Choose one of your opponent's **Friends**; it is sent to space for 3 turns and cannot attack or defend."
+        }
+    ],
+    "img": "FR_KISS_ACE.jpg",
+    "tags": [
+        "KISS",
+        "Musician",
+        "Celebrity"
+    ]
+}

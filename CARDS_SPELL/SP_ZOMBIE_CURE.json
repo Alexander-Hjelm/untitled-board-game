@@ -1,0 +1,9 @@
+{
+    "id": "SP_ZOMBIE_CURE",
+    "name": "Zombie virus cure",
+    "type": "Spell",
+    "desc": "Hum... I wonder if having all of these dang zombies around could prove useful somehow...",
+    "effect": "Stops the Zombie invasion. Discard any active 'Zombie invasion' cards.",
+    "img": "SP_ZOMBIE_CURE.jpg",
+    "tags": []
+}

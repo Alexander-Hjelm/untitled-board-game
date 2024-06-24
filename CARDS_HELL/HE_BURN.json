@@ -1,0 +1,9 @@
+{
+    "id": "HE_BURN",
+    "name": "Burn!",
+    "type": "Event",
+    "desc": "",
+    "effect": "Lose 2 HP",
+    "img": "HE_BURN.jpg",
+    "tags": []
+}

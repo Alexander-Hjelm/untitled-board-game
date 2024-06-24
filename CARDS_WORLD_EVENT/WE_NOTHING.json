@@ -1,0 +1,10 @@
+{
+    "id": "WE_NOTHING",
+    "name": "Nothing happens...",
+    "type": "World Event",
+    "desc": "",
+    "effect": "Carry on for now.",
+    "duration": "Discard immediately",
+    "img": "WE_NOTHING.png",
+    "tags": []
+}

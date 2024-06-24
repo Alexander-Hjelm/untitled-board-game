@@ -1,0 +1,11 @@
+{
+    "id": "EV_DICK_HAMMER",
+    "name": "Dick Hammer",
+    "type": "Event",
+    "desc": "",
+    "effect": "All players smash their dicks with a hammer and **die**. Players without a dick are exempt.",
+    "img": "EV_DICK_HAMMER.jpg",
+    "tags": [
+        "Instant death"
+    ]
+}

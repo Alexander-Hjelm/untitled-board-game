@@ -1,0 +1,15 @@
+{
+    "id": "ACC_LIDL_HAT",
+    "name": "LIDL hat",
+    "type": "Accessory",
+    "def": 0,
+    "atk": 1,
+    "desc": "Say hello to my LIDL friend!",
+    "set-desc": "+1 move per turn during **Friendly Combat** for every additional **LIDL** accessory.",
+    "specials": [],
+    "img": "ACC_LIDL_HAT.jpg",
+    "tags": [
+        "Hat",
+        "LIDL"
+    ]
+}

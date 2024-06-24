@@ -1,0 +1,10 @@
+{
+    "id": "WE_NOTHING_DOG_OBAMA",
+    "name": "Nothing happens... Except with a Husky and Obama.",
+    "type": "World Event",
+    "desc": "",
+    "effect": "Carry on for now.",
+    "duration": "Discard immediately",
+    "img": "WE_NOTHING_DOG_OBAMA.jpg",
+    "tags": []
+}

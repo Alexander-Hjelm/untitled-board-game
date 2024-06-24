@@ -1,0 +1,10 @@
+{
+    "id": "WE_ZOMBIE_INVASION",
+    "name": "Zombie invasion",
+    "type": "World Event",
+    "desc": "",
+    "effect": "Each player on earth must fight a 2/2 Zombie at the beginning of each turn.",
+    "duration": "**Forever** or until the card 'Zombie virus cure' has been played.",
+    "img": "WE_ZOMBIE_INVASION.jpg",
+    "tags": []
+}

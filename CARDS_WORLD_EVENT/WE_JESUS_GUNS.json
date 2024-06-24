@@ -1,0 +1,10 @@
+{
+    "id": "WE_JESUS_GUNS",
+    "name": "Dual wield Jesus",
+    "type": "World Event",
+    "desc": "Heaven has sent a hitman.",
+    "effect": "All cards on the board with **Devil tokens** are discarded.",
+    "duration": "Discard immediately",
+    "img": "WE_JESUS_GUNS.jpg",
+    "tags": []
+}

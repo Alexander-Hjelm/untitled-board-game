@@ -1,0 +1,10 @@
+{
+    "id": "TR_SAUL",
+    "name": "Better call Saul!",
+    "type": "Trap",
+    "desc": "The Only Way That Car Is Worth $500 Is If There Is A $300 Hooker In It.",
+    "condition": "Activated once any player directly attacks you.",
+    "effect": "You enlist the help of Saul Goodman to sue your attacker for assault. The attacking player gives you **500$** but their attack will continue as normal.",
+    "img": "IMG_TR_SAUL.jpg",
+    "tags": []
+}
